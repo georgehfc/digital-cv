@@ -1,2 +1,2 @@
-# venha-devagar
+# venha devagar
 prática de currículo
