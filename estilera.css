@@ -85,6 +85,7 @@ aside p {
 footer {
     width: 80%;
     margin: 0 auto;
+<<<<<<< HEAD
 }
 
 @media only screen and (max-width: 780px) {
@@ -148,4 +149,6 @@ footer {
         margin: 24px 0;
         display: block;
     }
+=======
+>>>>>>> parent of d04f88a... mezzo responsivo
 }
