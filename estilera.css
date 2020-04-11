@@ -7,7 +7,7 @@ header {
     margin: 160px auto;
 }
 
-div.segura {
+.segura {
     overflow: hidden;
     width: 80%;
     margin: 0 auto;
@@ -139,18 +139,13 @@ footer {
         display: none;
     }
 
-    /* footer div {
+    footer p {
         display: flex;
         flex-direction: column;
-        margin: 16px 0;
     }
 
-    footer a {
-        margin-bottom: 16px;
-    } */
-
-    .end{
-        margin-top: 24px;
+    footer div {
+        margin: 24px 0;
         display: block;
     }
 }
