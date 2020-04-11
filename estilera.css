@@ -82,3 +82,61 @@ footer {
     width: 80%;
     margin: 0 auto;
 }
+
+@media only screen and (max-width: 780px) {
+    
+    body {
+        margin: 0;
+    }
+
+    header {
+        margin: 40px 0;
+    }
+    
+    main {
+        width: 100%;
+    }
+
+    header h1 {
+        font-size: 24px;
+    }
+
+    header p {
+        font-size: 24px;
+    }
+
+    div.segura {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    aside {
+        width: 100%;
+    }
+
+    aside .flex {
+        display: flex;
+        width: 100%;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    aside article {
+        width: 220px;
+        margin-right: 8px;
+    }
+
+    footer {
+        width: 90%;
+    }
+
+    footer p {
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer span {
+        display: none;
+    }
+}
