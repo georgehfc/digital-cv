@@ -42,6 +42,10 @@ main {
     box-sizing: border-box;
 }
 
+a:visited {
+    color: #232323;
+}
+
 article {
     line-height: 24px;
 }
@@ -131,12 +135,22 @@ footer {
         width: 90%;
     }
 
-    footer p {
-        display: flex;
-        flex-direction: column;
-    }
-
     footer span {
         display: none;
+    }
+
+    /* footer div {
+        display: flex;
+        flex-direction: column;
+        margin: 16px 0;
+    }
+
+    footer a {
+        margin-bottom: 16px;
+    } */
+
+    .end{
+        margin-top: 24px;
+        display: block;
     }
 }
