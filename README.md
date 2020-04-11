@@ -6,3 +6,4 @@ prática de currículo
 
     - metendo estilera.css
     - metendo fonte 'Fira Sans'
+    - mezzo responsivo
