@@ -7,7 +7,7 @@ header {
     margin: 160px auto;
 }
 
-div.segura {
+.segura {
     overflow: hidden;
     width: 80%;
     margin: 0 auto;
@@ -40,6 +40,10 @@ main {
     margin-right: 10%;
     float: left;
     box-sizing: border-box;
+}
+
+a:visited {
+    color: #232323;
 }
 
 article {
@@ -131,12 +135,17 @@ footer {
         width: 90%;
     }
 
+    footer span {
+        display: none;
+    }
+
     footer p {
         display: flex;
         flex-direction: column;
     }
 
-    footer span {
-        display: none;
+    footer div {
+        margin: 24px 0;
+        display: block;
     }
 }
