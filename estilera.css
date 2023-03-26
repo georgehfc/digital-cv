@@ -42,7 +42,7 @@ main {
     box-sizing: border-box;
 }
 
-a:visited {
+a, a:visited {
     color: #232323;
 }
 
@@ -88,7 +88,7 @@ footer {
 }
 
 @media only screen and (max-width: 780px) {
-    
+
     body {
         margin: 0;
     }
@@ -96,7 +96,7 @@ footer {
     header {
         margin: 40px 0;
     }
-    
+
     main {
         width: 100%;
     }
