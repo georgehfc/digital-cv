@@ -1,9 +1,8 @@
 # venha devagar
 
-prática de currículo
+esse é o meu zen-garden. fique à vontade também!
 
-# novas funcionalidades
+# updates
 
-    - metendo estilera.css
-    - metendo fonte 'Fira Sans'
-    - mezzo responsivo
+    - atualização de cursos e experiência profissional
+    - ajuste de alguns links mortos
