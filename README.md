@@ -1,8 +1,8 @@
-# venha devagar
+# My Digital CV
 
-esse é o meu zen-garden. fique à vontade também!
+This is my zen-garden. Be good!
 
 # updates
-
-    - atualização de cursos e experiência profissional
-    - ajuste de alguns links mortos
+    - added Aptivio as Work Experience
+    - updated Education and Work Experience
+    - adjusted links
